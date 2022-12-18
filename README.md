@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! :crossed_fingers:<br>Im Julio Jimenez, python developer. :star_struck:<br>
+Hey there! :mechanical_arm: :eyes:<br>Im Julio Jimenez, python developer. :star_struck:<br>
 
 
 ## 🌐 Socials:
