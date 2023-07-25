@@ -1,12 +1,69 @@
-# 💫 About Me:
-Hey there! :mechanical_arm: :eyes:<br>Im Julio Jimenez, python developer. :star_struck:<br>
-You can find lot more info about me and portfolio in my website [here](http://juliojimenez.pythonanywhere.com/)! :point_left:
+# Julio Jiménez - Software Developer
+**📧 Email:** [juliojm1310@gmail.com](mailto:juliojm1310@gmail.com)   
+**📍 Location:** Ecuador  
+**🌐 LinkedIn:** [linkedin.com/in/juliojimenez13jarprog](https://www.linkedin.com/in/juliojimenez13jarprog/)  
+**🔗 Github:** [github.com/juliojm13](https://github.com/juliojm13)  
+**💬 Telegram:** [t.me/ggtrin](https://t.me/ggtrin)  
 
+## 👤 Summary
+Starting as a multilingual Address Proofreader in a call center, I have rapidly evolved into a skilled Software Engineer, demonstrating significant career growth in the international IT industry. My journey has taken me from providing direct customer service to developing robust software solutions and analytics applications for companies like MediaNation. This progress showcases my commitment to continuous learning and adaptation, underscoring my drive to make a meaningful impact in the global IT sector.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/just_it_ec) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juliojimenez13jarprog) 
-<br>More contact info  [here](http://juliojimenez.pythonanywhere.com/)! :point_left:
+## 💼 Work Experience
 
+### Software Engineer, MediaNation - Russia
+**September 2022 - Present**  
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+- Developed and implemented a robust software solution integrating with various third-party technology platforms such as GitLab, GitHub, Google, ClickUp, and CRM platforms like amoCRM via APIs, serving up to 20 users across multiple teams.
+- Created an API for this software, facilitating integration with other applications.
+- Led the creation of a business analytics web application using Superset and Airflow, improving task performance by 300%.
+- Gathered and analyzed user data, assisting companies to assess the effectiveness and quality of their staff's work through advanced data analytics.
+
+### IT Support Specialist (English, Spanish, Russian), AmoCRM (Kommo) - Moscow, Russia
+**September 2021 - October 2022**  
+
+- Provided full help for working with the AmoCRM API to create third-party applications based on it.
+- Provided technical support for over 500 customers in a fast-paced corporate environment.
+- Developed and maintained technical documentation for customers and staff, managing and producing up to 30 documents.
+
+### Mechatronics Engineer Summer Intern, Intron Plyus (Интрон Плюс) - Moscow, Russia
+**June 2021 - July 2021**  
+
+- Designed and developed an innovative 3D prototype to improve the review process of large steel cables used in petroleum engineering.
+
+### Address Proofreader (English and Spanish), Интеграция - Moscow, Russia
+**January 2021 - May 2021**  
+
+- Corrected client addresses from Latin America countries, overseeing typos, grammatical and stylistic errors.
+
+## 🎓 Education
+
+### Master of Science in Mechatronic and Robotic Engineering, MPEI (Moscow Power Engineering Institute)
+**September 2022 - Present**
+
+### Bachelor of Science in Mechatronic and Robotic Engineering, MPEI (Moscow Power Engineering Institute)
+**September 2018 - July 2022**  
+Graduated with honors
+
+## 🛠️ Skills
+- Software design
+- API integration
+- Teamwork
+- Leadership
+- Communication
+- RESTful API design
+- Microservices
+- Serverless architectures
+- Proficient in Python, Django, Django REST, FastAPI, Flask, Postgres, JavaScript, C++, HTML5, CSS3, and more.
+
+## 💬 Languages
+- Spanish (Native Speaker)
+- English (Fluent)
+- Russian (Fluent)
+
+## 💻 Open source contributions
+- Backend Contributor, [Hire-Hire](https://github.com/hire-hire), Russia  
+**February 2023 - Present**  
+Hire-hire is a Russian open source project building software to help IT specialists prepare for all tech-type interviews with a team of 15+ members. My role in the team is to create new features and maintain the backend by writing APIs for the frontend and writing tests for all features to ensure the correct operation of the application.
+
+## 🎯 Hobbies
+I really enjoy playing soccer and practicing yoga. On weekends, I love to travel to nearby cities and do alpinism. Additionally, I find great satisfaction in teaching others everything I know, whether it's Spanish or programming.
