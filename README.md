@@ -13,7 +13,6 @@ through billing and Kubernetes deployment.
 M.Sc. in Artificial Intelligence (UTPL, 2026). I work in English, Spanish and Russian.
 
 > Most of my professional work lives in private GitLab repositories, so this profile is only a slice of it.
-> The full story is in my [CV](https://github.com/juliojm13/cv).
 
 ## What I work with
 
@@ -47,5 +46,5 @@ Mentor at Django Girls Cuenca & Loja, and part of the team behind the Quito Lamb
 
 ## Elsewhere
 
-[CV (PDF)](https://github.com/juliojm13/cv) · [LinkedIn](https://www.linkedin.com/in/julio-c-jimenez-dev/) · juliojm1310@gmail.com
+[LinkedIn](https://www.linkedin.com/in/julio-c-jimenez-dev/) · juliojm1310@gmail.com
 
