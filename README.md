@@ -1,6 +1,6 @@
 # Julio Jimenez
 
-**AI/LLM Engineer · Full-stack (Python · Vue) · Quito, Ecuador**
+**AI/LLM Engineer · Full-stack (Python · React · Vue) · Quito, Ecuador**
 
 I build production AI systems rather than demos: retrieval-augmented generation, agent tool-calling, and
 multi-provider LLM gateways — Python on the backend, Vue/Nuxt on the front, Kubernetes underneath.
